@@ -2,7 +2,7 @@
 
 > Arvindra Sehmi, CloudOpti Ltd. | [Website](https://sehmiconscious.blogspot.com) | [LinkedIn](https://www.linkedin.com/in/asehmi/)
 
-> Updated: 25 September, 2021
+> Updated: 28 September, 2021
 
 ---
 
@@ -12,6 +12,18 @@ sample application is that the Streamlit app server and front end web server are
 ## Demo
 
 ![streamlit-component-toggle-buttons](./images/streamlit-component-toggle-buttons.gif)
+
+## Demo Multipage App
+
+You can find a complete mini multipage app implementation in `./frontend_multipage_app`, which uses this simple framework. Run the app from the root folder:
+
+```
+$ streamlit run multipage_app.py
+You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8765
+  Network URL: http://192.168.1.100:8765
+```
 
 ## Overview
 

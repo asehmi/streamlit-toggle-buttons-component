@@ -1,1 +1,1 @@
-streamlit run app.py
+streamlit run multipage_app.py
